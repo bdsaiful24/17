@@ -240,11 +240,11 @@ a{
     margin-left: 0;
 }
 .portfolio-item:nth-child(n+3){
-    width: 32%;
+    width: 23%;
     margin-left: 2%;
     border: transparent;
 }
-.portfolio-item:nth-child(2n+3){
+.portfolio-item:nth-child(4n+3){
     margin-left: 0;
 }
 .portfolio-item p{
